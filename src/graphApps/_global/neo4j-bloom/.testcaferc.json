@@ -1,0 +1,9 @@
+{
+  "selectorTimeout": 30000,
+  "stopOnFirstFail": false,
+  "takeScreenshotsOnFails": true,
+  "screenshotPath": "testcafe/artifacts/screenshots",
+  "src": [
+    "testcafe/**/*.test.js"
+  ]
+}
